@@ -4,8 +4,11 @@
 
 ### This is my subheading
 
-[microsoft] [https://microsoft.com]
+[microsoft] (https://www.microsoft.com)
 
+*bold*
+**italics**
+***bold-italtics***
 ```
 code sample
 ```
