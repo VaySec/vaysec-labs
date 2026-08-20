@@ -4,7 +4,7 @@
 
 ### This is my subheading
 
-[microsoft] (https://microsoft.com)
+[microsoft] [https://microsoft.com]
 
 ```
 code sample
