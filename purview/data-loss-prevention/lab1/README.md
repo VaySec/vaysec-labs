@@ -7,7 +7,7 @@
 
 ## Setup
 - Create Policy {policy-name}
-<img src="./images/photo.png" width="666">
+<img src="./images/photo.png" width="555">
 -
 
 
