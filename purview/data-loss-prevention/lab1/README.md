@@ -7,7 +7,7 @@
 
 ## Setup
 - Create Policy {policy-name}
-![Policy Creation](images/photo.png|150x)
+![Policy Creation](images/photo.png =150x)
 -
 
 
