@@ -1,6 +1,6 @@
 # DLP in Microsoft Sharepoint, Ondrive for Business and Teams
 
-## Description | Requirement
+## Description
 <b>VaySec</b> is a Cybersecurity firm in Melbourne, Australia. VaySec employees uses Microsoft 365 for communication, emails and storing documents and files.
 
 VaySec wants to prevent data leaks happening unintentionally or otherwise when communicating within or outside the organisation. A VaySec consultant has been tasked to configure and test *Data Loss Prevention* policy in Purview. 
