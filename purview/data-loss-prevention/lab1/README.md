@@ -3,8 +3,7 @@
 ## Description | Requirement
 
 **VaySec** is a Cybersecurity firm in Melbourne, Australia. VaySec employees uses Microsoft 365 for communication, emails and storing documents and files.
-
-VaySec wants to prevent data leaks happening unintentionally or otherwise when communicating within or outside the organisation. A VaySec consultant has been tasked to configure and test *Data Loss Prevention* policy in Purview. 
+**VaySec** wants to prevent data leaks happening unintentionally or otherwise when communicating within or outside the organisation. A VaySec consultant has been tasked to configure and test *Data Loss Prevention* policy in Purview. 
 ---
 The purpose of this lab is to test Microsoft Purview Data Loss Prevention (DLP) with Microsoft Teams.
 The test demonstrates that Purview can:
